@@ -1,0 +1,17 @@
+p {
+    text-align: justify;
+}
+
+.verse {
+    background-color: rgba(32, 34, 27, 0.644);
+}
+
+.verse > p {
+    text-align: center;
+    color: rgb(250, 255, 240);
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+}
